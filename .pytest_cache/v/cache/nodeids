@@ -1,0 +1,12 @@
+[
+  "TestProject/test_1.py::Test::test_store1",
+  "TestProject/test_1.py::Test::test_store10",
+  "TestProject/test_1.py::Test::test_store2",
+  "TestProject/test_1.py::Test::test_store3",
+  "TestProject/test_1.py::Test::test_store4",
+  "TestProject/test_1.py::Test::test_store5",
+  "TestProject/test_1.py::Test::test_store6",
+  "TestProject/test_1.py::Test::test_store7",
+  "TestProject/test_1.py::Test::test_store8",
+  "TestProject/test_1.py::Test::test_store9"
+]
